@@ -31,5 +31,3 @@ eset.addEventListener('click', function(item){
         body.style.backgroundColor = 'white'
     }
 })
-
-
